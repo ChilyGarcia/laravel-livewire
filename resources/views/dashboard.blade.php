@@ -12,6 +12,8 @@
 
             @livewire('excel.import-providers')
 
+            @livewire('counter')
+
 
         </div>
     </div>
